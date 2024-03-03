@@ -357,7 +357,7 @@ span::before{
     position:absolute;
     width: 50px;
     height: 50px;
-    background-color: purple;
+    background-color: #fcae00;
     margin: 10px;
     right: 0;
     animation-name: moving;
